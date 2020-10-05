@@ -1,0 +1,22 @@
+{
+    "/login": {
+
+           "target": "http://localhost:8081/auth/login",
+
+           "secure": false
+    },
+
+    "/register": {
+
+           "target": "http://localhost:8081/auth/register",
+
+           "secure": false
+    },
+
+    "/candidates": {
+
+           "target": "http://localhost:8081/candidates",
+
+           "secure": false
+    }
+}
